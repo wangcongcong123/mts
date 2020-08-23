@@ -1,4 +1,4 @@
-#### MTS (MLP-Torch-Sklearn): Pytorch MLP implementation for Sklearn-like datasets classification and regression.
+## MTS (MLP-Torch-Sklearn): Pytorch MLP implementation for Sklearn-like datasets classification and regression.
 
 ### [Demo](example.py)
 
@@ -23,7 +23,7 @@ weighted avg       1.00      1.00      1.00        15
 ### Features
 - Regression/classification using sklearn-like (numeric csv) datasets
 - Logging, model loading and saving, hyper-parameter tuning, easy model configuration.
-- Well-deigned for pytorch-preferred users who just stepped to the world of deep learning (DL) and want to understand important DL concept with some toy exampels.
+- Well-deigned for pytorch-preferred users who just stepped to the world of deep learning (DL) and want to understand important DL concepts with some toy examples.
 
 ### Quickstart
 - Install

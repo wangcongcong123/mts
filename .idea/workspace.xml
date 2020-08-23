@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="707df3e0-fbfc-420e-81b1-ed19e96ffce9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/iris/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/iris/test.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/iris/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/iris/train.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-28-02_Congcong-Desktop/events.out.tfevents.1598135284.Congcong-Desktop.32928.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-33-33_Congcong-Desktop/events.out.tfevents.1598135615.Congcong-Desktop.29520.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-35-21_Congcong-Desktop/events.out.tfevents.1598135722.Congcong-Desktop.33548.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-36-22_Congcong-Desktop/events.out.tfevents.1598135783.Congcong-Desktop.16160.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-37-05_Congcong-Desktop/events.out.tfevents.1598135826.Congcong-Desktop.32720.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-40-31_Congcong-Desktop/events.out.tfevents.1598136032.Congcong-Desktop.32760.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-41-30_Congcong-Desktop/events.out.tfevents.1598136091.Congcong-Desktop.14600.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-42-01_Congcong-Desktop/events.out.tfevents.1598136122.Congcong-Desktop.31656.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-42-25_Congcong-Desktop/events.out.tfevents.1598136146.Congcong-Desktop.11248.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-55-55_Congcong-Desktop/events.out.tfevents.1598136956.Congcong-Desktop.33892.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-56-26_Congcong-Desktop/events.out.tfevents.1598136987.Congcong-Desktop.33872.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-56-49_Congcong-Desktop/events.out.tfevents.1598137010.Congcong-Desktop.27000.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-57-49_Congcong-Desktop/events.out.tfevents.1598137070.Congcong-Desktop.30088.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-58-15_Congcong-Desktop/events.out.tfevents.1598137096.Congcong-Desktop.29360.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-59-32_Congcong-Desktop/events.out.tfevents.1598137173.Congcong-Desktop.20596.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-00-25_Congcong-Desktop/events.out.tfevents.1598137226.Congcong-Desktop.23328.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-10-33_Congcong-Desktop/events.out.tfevents.1598137834.Congcong-Desktop.10336.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-10-55_Congcong-Desktop/events.out.tfevents.1598137857.Congcong-Desktop.29072.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-13-56_Congcong-Desktop/events.out.tfevents.1598138037.Congcong-Desktop.34244.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-14-20_Congcong-Desktop/events.out.tfevents.1598138061.Congcong-Desktop.34056.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-15-59_Congcong-Desktop/events.out.tfevents.1598138160.Congcong-Desktop.34408.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-27-30_Congcong-Desktop/events.out.tfevents.1598138851.Congcong-Desktop.30224.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-28-06_Congcong-Desktop/events.out.tfevents.1598138887.Congcong-Desktop.15804.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-46-29_Congcong-Desktop/events.out.tfevents.1598139990.Congcong-Desktop.30268.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-46-52_Congcong-Desktop/events.out.tfevents.1598140013.Congcong-Desktop.33936.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-47-20_Congcong-Desktop/events.out.tfevents.1598140041.Congcong-Desktop.8672.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-50-34_Congcong-Desktop/events.out.tfevents.1598140235.Congcong-Desktop.10628.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-51-05_Congcong-Desktop/events.out.tfevents.1598140266.Congcong-Desktop.29764.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-51-50_Congcong-Desktop/events.out.tfevents.1598140311.Congcong-Desktop.19836.0" beforeDir="false" />
-    </list>
+    <list default="true" id="707df3e0-fbfc-420e-81b1-ed19e96ffce9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598132032456</updated>
-      <workItem from="1598132039041" duration="9261000" />
+      <workItem from="1598132039041" duration="9569000" />
     </task>
     <servers />
   </component>
