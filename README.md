@@ -31,7 +31,7 @@ weighted avg       1.00      1.00      1.00        15
 git clone https://github.com/wangcongcong123/mts.git
 pip install -r requirements.txt
 ```
-- Obtain and split a data set. This download datasets from [scikit-learn](https://scikit-learn.org/stable/datasets/index.html) lib and convert them to csv format that this repo requires.
+- Obtain and split a data set. This downloads datasets from [scikit-learn](https://scikit-learn.org/stable/datasets/index.html) lib and convert them to csv format that this repo requires.
 
 ```
 python obtain_split_data --dataset_name iris --test_size 0.1 
