@@ -6,7 +6,7 @@ from trainer import Trainer
 train_path = "./data/iris/train.csv"
 test_path = "./data/iris/test.csv"
 
-save_path = f"tmp/mlp_iris"  # where the model's checkpoints are saved to
+save_path = "tmp/mlp_iris"  # where the model's checkpoints are saved to
 
 numeric_feature_names = ['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
 # load train data and dev data
