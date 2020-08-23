@@ -26,7 +26,7 @@ if __name__ == '__main__':
                         help='train batch size')
     parser.add_argument('--device', type=str, default="cuda",
                         help='gpu (cuda) or cpu (cpu)?')
-    parser.add_argument('--lr', type=int, default=0.03,
+    parser.add_argument('--lr', type=float, default=0.03,
                         help='learning rate')
 
     parser.add_argument(

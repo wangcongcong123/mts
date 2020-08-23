@@ -1,5 +1,5 @@
 scikit-learn
-torch==1.7.0
+torch==1.6.0
 tensorboard
 numpy
 pandas

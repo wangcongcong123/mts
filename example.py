@@ -21,8 +21,9 @@ trainer = Trainer(train_data, model,
                   loss_fn="ce",
                   eval_every=2,
                   device="cpu",
-                  train_epochs="100",
-                  train_batch_size="128")
+                  save_path=save_path,
+                  train_epochs=100,
+                  train_batch_size=128)
 # start training
 trainer.train()
 

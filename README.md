@@ -1,13 +1,23 @@
 ## MTS (MLP-Torch-Sklearn): Pytorch MLP implementation for Sklearn-like datasets classification and regression.
 
+### Features
+- Regression/classification using sklearn-like (numeric csv) datasets
+- Logging, model loading and saving, hyper-parameter tuning, easy model configuration.
+- Well-deigned for pytorch-preferred users who just stepped to the world of deep learning (DL) and want to understand important DL concepts with some toy examples.
+
+## Notebooks
+- [demo - an example of MLP using iris dataset](mts_demo.ipynb)
+- [quickstart - read-to-go train and eval](mts_quickstart.ipynb)
+
+
 ### [Demo](example.py)
 
 ![](demo.png)
 
-The output will be:
+The output will be like:
 
 ```
-*******************eval on train set of iris*******************
+*******************eval on test set of iris*******************
          0.0       1.00      1.00      1.00         6
          1.0       1.00      1.00      1.00         3
          2.0       1.00      1.00      1.00         6
@@ -20,24 +30,20 @@ weighted avg       1.00      1.00      1.00        15
 ** will add this to a Colab notebook
 
 
-### Features
-- Regression/classification using sklearn-like (numeric csv) datasets
-- Logging, model loading and saving, hyper-parameter tuning, easy model configuration.
-- Well-deigned for pytorch-preferred users who just stepped to the world of deep learning (DL) and want to understand important DL concepts with some toy examples.
-
 ### Quickstart
 - Install
 ```
 git clone https://github.com/wangcongcong123/mts.git
+cd mts
 pip install -r requirements.txt
 ```
 - Obtain and split a data set. This downloads datasets from [scikit-learn](https://scikit-learn.org/stable/datasets/index.html) lib and convert them to csv format that this repo requires.
 
 ```
-python obtain_split_data --dataset_name iris --test_size 0.1 
-python obtain_split_data --dataset_name covtype --test_size 0.1 
-python obtain_split_data --dataset_name digits --test_size 0.1 
-python obtain_split_data --dataset_name boston --test_size 0.1
+python obtain_split_data.py --dataset_name iris --test_size 0.1 
+python obtain_split_data.py --dataset_name covtype --test_size 0.1 
+python obtain_split_data.py --dataset_name digits --test_size 0.1 
+python obtain_split_data.py --dataset_name boston --test_size 0.1
 ```
 ** try `python obtain_split_data.py --help` for the details of each parameter.
 
@@ -54,7 +60,7 @@ python run.py --dataset_name boston --task reg --train_epochs 100 --train_batch_
 ```
 ** try `python run.py --help` for the details of each parameter.
 
-- Tracking the training process using tensorboard.
+- Tracking the training process using tensorboard `tensorboard dev upload --logdir runs`.
     - here is [an example of training using iris](https://tensorboard.dev/experiment/eSaz76ckRR2tRpEWF5BUvQ/#scalars)
 
 ### Datasets available so far
