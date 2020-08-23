@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="707df3e0-fbfc-420e-81b1-ed19e96ffce9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/iris/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/iris/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/iris/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/iris/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-28-02_Congcong-Desktop/events.out.tfevents.1598135284.Congcong-Desktop.32928.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-33-33_Congcong-Desktop/events.out.tfevents.1598135615.Congcong-Desktop.29520.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-35-21_Congcong-Desktop/events.out.tfevents.1598135722.Congcong-Desktop.33548.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-36-22_Congcong-Desktop/events.out.tfevents.1598135783.Congcong-Desktop.16160.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-37-05_Congcong-Desktop/events.out.tfevents.1598135826.Congcong-Desktop.32720.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-40-31_Congcong-Desktop/events.out.tfevents.1598136032.Congcong-Desktop.32760.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-41-30_Congcong-Desktop/events.out.tfevents.1598136091.Congcong-Desktop.14600.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-42-01_Congcong-Desktop/events.out.tfevents.1598136122.Congcong-Desktop.31656.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-42-25_Congcong-Desktop/events.out.tfevents.1598136146.Congcong-Desktop.11248.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-55-55_Congcong-Desktop/events.out.tfevents.1598136956.Congcong-Desktop.33892.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-56-26_Congcong-Desktop/events.out.tfevents.1598136987.Congcong-Desktop.33872.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-56-49_Congcong-Desktop/events.out.tfevents.1598137010.Congcong-Desktop.27000.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-57-49_Congcong-Desktop/events.out.tfevents.1598137070.Congcong-Desktop.30088.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-58-15_Congcong-Desktop/events.out.tfevents.1598137096.Congcong-Desktop.29360.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug22_23-59-32_Congcong-Desktop/events.out.tfevents.1598137173.Congcong-Desktop.20596.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-00-25_Congcong-Desktop/events.out.tfevents.1598137226.Congcong-Desktop.23328.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-10-33_Congcong-Desktop/events.out.tfevents.1598137834.Congcong-Desktop.10336.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-10-55_Congcong-Desktop/events.out.tfevents.1598137857.Congcong-Desktop.29072.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-13-56_Congcong-Desktop/events.out.tfevents.1598138037.Congcong-Desktop.34244.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-14-20_Congcong-Desktop/events.out.tfevents.1598138061.Congcong-Desktop.34056.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-15-59_Congcong-Desktop/events.out.tfevents.1598138160.Congcong-Desktop.34408.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-27-30_Congcong-Desktop/events.out.tfevents.1598138851.Congcong-Desktop.30224.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-28-06_Congcong-Desktop/events.out.tfevents.1598138887.Congcong-Desktop.15804.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-46-29_Congcong-Desktop/events.out.tfevents.1598139990.Congcong-Desktop.30268.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-46-52_Congcong-Desktop/events.out.tfevents.1598140013.Congcong-Desktop.33936.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-47-20_Congcong-Desktop/events.out.tfevents.1598140041.Congcong-Desktop.8672.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-50-34_Congcong-Desktop/events.out.tfevents.1598140235.Congcong-Desktop.10628.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-51-05_Congcong-Desktop/events.out.tfevents.1598140266.Congcong-Desktop.29764.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/Aug23_00-51-50_Congcong-Desktop/events.out.tfevents.1598140311.Congcong-Desktop.19836.0" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gTID7Y7JP16boAI8VClZOV2WrI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\public-open-source\mts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="mlp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mlp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="obtain_split_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/obtain_split_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.obtain_split_data" />
+        <item itemvalue="Python.mlp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="707df3e0-fbfc-420e-81b1-ed19e96ffce9" name="Default Changelist" comment="" />
+      <created>1598132032456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598132032456</updated>
+      <workItem from="1598132039041" duration="9261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mts$run.coverage" NAME="run Coverage Results" MODIFIED="1598141282454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mts$mlp.coverage" NAME="mlp Coverage Results" MODIFIED="1598136970058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mts$obtain_split_data.coverage" NAME="obtain_split_data Coverage Results" MODIFIED="1598140929815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
