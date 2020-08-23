@@ -1,4 +1,4 @@
-#### MTS (MLP-Torch-Sklearn): Pytorch MLP implementation for Sklearn-like datasets classification and regression.
+## MTS (MLP-Torch-Sklearn): Pytorch MLP implementation for Sklearn-like datasets classification and regression.
 
 ### [Demo](example.py)
 
